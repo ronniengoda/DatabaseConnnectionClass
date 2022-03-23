@@ -1,4 +1,4 @@
 <?php 
 include 'db.php';
-$db = new db("localhost","root","","postaboxes");
+$db = new db("localhost","root","","databasename");
 ?>
